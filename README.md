@@ -1,4 +1,4 @@
-# Terraform AWS [API Gateway HTTP] ![](https://img.shields.io/github/workflow/status/TechNative-B-V/terraform-aws-module-name/tflint.yaml?style=plastic)
+# Terraform AWS [API Gateway HTTP] ![](https://img.shields.io/github/actions/workflow/status/TechNative-B-V/terraform-aws-module-name/tflint.yaml?style=plastic)
 
 <!-- SHIELDS -->
 
@@ -18,8 +18,6 @@ This module needs to be split as its currently too opinionated:
 Run `pre-commit install` to install any guardrails implemented using pre-commit.
 
 See [pre-commit installation](https://pre-commit.com/#install) on how to install pre-commit.
-
-...
 
 ## Usage
 
