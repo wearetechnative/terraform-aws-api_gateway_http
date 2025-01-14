@@ -1,5 +1,5 @@
 module "ssl_certificate" {
-  source = "../../../modules/ssl_certificate/"
+  source = "github.com/wearetechnative/terraform-aws-ssl-certificate.git?ref=986301ba67c78b9d60fc95d8bb0d8d8464e8907a"
 
   providers = {
     aws = aws
