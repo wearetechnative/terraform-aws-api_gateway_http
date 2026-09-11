@@ -1,4 +1,4 @@
-# Terraform AWS API Gateway HTTP ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-api_gateway_http/tflint.yaml?style=plastic)
+# Terraform AWS API Gateway HTTP ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-api_gateway_http/tflint.yaml?branch=main&style=plastic)
 
 <!-- SHIELDS -->
 
